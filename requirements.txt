@@ -1,0 +1,12 @@
+numpy==1.26.4
+scipy
+matplotlib
+pillow
+opencv-python
+datasets
+jupyter
+scikit-image
+torch
+transformers
+ipywidgets
+
